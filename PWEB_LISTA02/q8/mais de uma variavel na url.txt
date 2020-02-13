@@ -1,0 +1,3 @@
+Para declarar mais variáveis você utiliza o &.
+EXEMPLO:
+http://localhost/PWEB_LISTA02/q7/?num1=3?&num2=4
